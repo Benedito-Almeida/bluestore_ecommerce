@@ -1,1 +1,1 @@
-demonstração de uma pequeno ecomerce frontend feito em html css e javascript
+demonstração de uma pequeno ecomerce frontend responsivo  feito em html css e javascript
